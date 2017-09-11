@@ -1,3 +1,8 @@
-1.What happens when you initialize a repository? Why do you need to do it?
+	1.What happens when you initialize a repository? Why do you need to do it?
 While init empty directory for repos using, git placed some special catalogs and  
 files to store metadata in it.
+
+	2.How is the staging area different from the working directory and the 
+	repository? What value do you think it offers?
+Staging area is a mediator between working catalog and repository it plays a role
+of a buffer between them.
