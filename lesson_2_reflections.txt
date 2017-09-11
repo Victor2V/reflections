@@ -6,3 +6,5 @@ files to store metadata in it.
 	repository? What value do you think it offers?
 Staging area is a mediator between working catalog and repository it plays a role
 of a buffer between them.
+	3.How can you use the staging area to make sure you have one commit per logical change?
+May be by adding only those files in staging area that i want to commit in one logical change.
