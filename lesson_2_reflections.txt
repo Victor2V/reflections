@@ -16,3 +16,6 @@ How would branches help?
 production version for example ...
 	5.How do the diagrams help you visualize the branch structure?
 Diagrams shows the entire tree of repository with all reacheble branches
+	6.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Resulting branch included modifications of this two branches based on relative parent. Diagram visualise the way 
+and behaviour of merge process.
