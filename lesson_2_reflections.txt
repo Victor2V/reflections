@@ -19,3 +19,6 @@ Diagrams shows the entire tree of repository with all reacheble branches
 	6.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Resulting branch included modifications of this two branches based on relative parent. Diagram visualise the way 
 and behaviour of merge process.
+	7.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+It would be very nice if git make correct merging automatically in all conflicts but it can't. So 
+we need to assist this process on our own manner and desicions.
