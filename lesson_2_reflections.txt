@@ -14,3 +14,5 @@ May be by adding only those files in staging area that i want to commit in one l
 How would branches help?
 	In some situations when some experemental modifications expected those tha would not   included in 
 production version for example ...
+	5.How do the diagrams help you visualize the branch structure?
+Diagrams shows the entire tree of repository with all reacheble branches
