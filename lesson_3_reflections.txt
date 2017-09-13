@@ -6,3 +6,5 @@ Manual pull allows control over published versions of files
 	3.Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Fork used on GitHub remote repo, clone used for creating local repo from remote and branch allow various versions 
 of files chaining from master branch
+	4.What is the benefit of having a copy of the last known state of the remote stored locally?
+While having a local copy of the remote repo IO have access to last versions/modifications of shared files
