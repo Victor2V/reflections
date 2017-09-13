@@ -8,3 +8,5 @@ Fork used on GitHub remote repo, clone used for creating local repo from remote 
 of files chaining from master branch
 	4.What is the benefit of having a copy of the last known state of the remote stored locally?
 While having a local copy of the remote repo IO have access to last versions/modifications of shared files
+	5.How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I have to think about it a little
